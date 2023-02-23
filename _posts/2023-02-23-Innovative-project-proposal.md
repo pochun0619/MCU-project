@@ -40,6 +40,7 @@ This homework is to propose an innovative project and describe the key features,
 
 ### 系統方塊圖
 ![](https://github.com/rkuo2000/MCU-course/blob/main/images/FutureHome_kitchen_robot.png?raw=true)
+![]https://github.com/pochun0619/MCU-project/blob/main/images/ESP32_miniCopter.jpg?raw=true
 
 
 ---
