@@ -25,6 +25,10 @@ This homework is to propose an innovative project and describe the key features,
 ### 應用功能說明
 1. 操作廚具：咖啡機＋果汁機＋烤麵包機＋微波爐+烤箱+氣炸鍋
 2. 存取冰箱：辨識食物, 存放食材，或取出食材, 送至廚具
+![]
+
+
+
 
 ### 設計考量與相關技術
 **系統設計考量：**<br>
@@ -40,7 +44,6 @@ This homework is to propose an innovative project and describe the key features,
 
 ### 系統方塊圖
 ![](https://github.com/rkuo2000/MCU-course/blob/main/images/FutureHome_kitchen_robot.png?raw=true)
-![]https://github.com/pochun0619/MCU-project/blob/main/images/ESP32_miniCopter.jpg?raw=true
 
 
 ---
