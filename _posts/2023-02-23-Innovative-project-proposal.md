@@ -50,7 +50,7 @@ This homework is to propose an innovative project and describe the key features,
 
 
 ### 系統方塊圖
-![](https://github.com/pochun0619/MCU-project/blob/main/images/A4988_wiring_diagram.png?raw=true)
+![]([https://github.com/pochun0619/MCU-project/blob/main/images/A4988_wiring_diagram.png?raw=true](https://github.com/pochun0619/MCU-project/blob/main/images/CRM2208.jpg?raw=true))
 
 <iframe width="1239" height="697" src="https://www.youtube.com/embed/DMO8PNpiwUw" title="面對夢想家包夾林書豪的策略 鋼鐵人為何束手無策 龍骨湯到底有沒有料 ft @littlehu" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
