@@ -50,7 +50,7 @@ This homework is to propose an innovative project and describe the key features,
 
 
 ### 系統方塊圖
-![](https://github.com/pochun0619/MCU-project/blob/main/images/CRM2208.jpg?raw=true)
+![](https://github.com/pochun0619/MCU-project/blob/main/images/%E5%89%B5%E6%96%B0%E6%87%89%E7%94%A82.png?raw=true)
 
 
 
