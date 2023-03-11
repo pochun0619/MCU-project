@@ -40,11 +40,11 @@ This homework is to propose an innovative project and describe the key features,
 4. 聯網方式:WiFi,藍牙,Zigbee
 
 **所需相關技術：**
-1. 智能感測技術(能根據使用者身體數據，條件，能力等制定不同的健身計畫)
-2. 遠距離互動技術，包括視訊，聊天應用
-3. 姿勢正確性監控
-4. 虛擬化技術(3D,4D)
-5. 個資防護技術
+1. 智能感測技術(能根據使用者身體數據，條件，能力等制定不同的健身計畫):Fitbit,Peloton,Myzone...
+2. 遠距離互動技術，包括視訊，聊天應用:FightCamp,NordicTrack..
+3. 姿勢正確性監控:tonal+,Moov HR sweat
+4. 虛擬化技術(3D,4D):Samesung Gear VR
+5. 個資防護技術:MYZONE MZ-3
 
 
 
